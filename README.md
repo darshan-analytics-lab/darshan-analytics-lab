@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Darshan 👋
 
-<!--
-**darshan-analytics-lab/darshan-analytics-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engineering Graduate (2026)  
+Aspiring Finance & Data Analyst  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+About Me
+- Interested in Finance, Accounting & Data Analytics  
+- Learning Excel, Power BI, SQL & Python  
+- Focused on building real-world finance projects  
+
+---
+
+## Skills I'm Learning
+- Excel (Advanced)
+- Power BI (Dashboards)
+- SQL (Finance Queries)
+- Python (Finance Automation)
+
+---
+
+## Projects Coming Soon
+- Personal Finance Dashboard (Excel + Power BI)
+- Financial Statement Analysis (TCS, Infosys)
+- SIP Calculator (Python)
+- SQL Finance Queries Project
+
+---
+
+## Goal
+To become a Finance + Data Analytics professional in a reputed company.
+
+---
+
+## Connect With Me
